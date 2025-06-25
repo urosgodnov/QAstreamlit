@@ -5,3 +5,4 @@ sentence-transformers
 langchain 
 spacy 
 pandas
+protobuf==3.20.3
