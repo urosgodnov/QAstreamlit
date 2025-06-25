@@ -1,0 +1,7 @@
+streamlit 
+docling 
+chromadb 
+sentence-transformers 
+langchain 
+spacy 
+pandas
